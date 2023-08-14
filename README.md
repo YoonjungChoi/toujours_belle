@@ -31,11 +31,11 @@
 ### 2022 Fall
   -  CMPE258 DeepLearning
 
-    Project: Breast Cancer Segmentation and Real-Time Cartoon Charactor Detection,[github](https://github.com/YoonjungChoi/CMPE258DL_ObjectDetectionSegmentation_study)
+     Project: Breast Cancer Segmentation and Real-Time Cartoon Charactor Detection,[github](https://github.com/YoonjungChoi/CMPE258DL_ObjectDetectionSegmentation_study)
 
   -  CMPE297 SpecialTopics(Natural Language Processing)
 
-    Project: QuestionAnswering with BERT, GPT models, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
+     Project: QuestionAnswering with BERT, GPT models, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
     
 ### 2023 Spring
 
