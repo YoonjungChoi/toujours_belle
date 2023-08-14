@@ -49,7 +49,7 @@
 
   - CMPE295A MasterProject
 
-2023 Fall
+### 2023 Fall
 
   - CMPE295B MasterProject
 
