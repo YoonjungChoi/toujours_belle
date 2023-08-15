@@ -49,9 +49,12 @@
 
   - CMPE295A MasterProject
 
+    Project: Neural Machine Translation [github](https://github.com/YoonjungChoi/CMPE295_NMT_Project/tree/main)
+
 ### 2023 Fall
 
   - CMPE295B MasterProject
-
     
   - CMPE260 Reinforcement Learning
+
+    
