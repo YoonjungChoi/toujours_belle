@@ -10,7 +10,7 @@
   
   - CMPE257 Machine Learninng
   
-    Project: Herbarium 2021 Kaggle, [github](https://github.com/YoonjungChoi/CMPE257_ML_study)
+    Project: Image Classification with Herbarium 2021 Kaggle Competition, [github](https://github.com/YoonjungChoi/CMPE257_ML_study)
   
   - CMPE272 Enterprise SW Platform
 
@@ -19,7 +19,7 @@
 ### 2022 Spring
   - CMPE255 Data Mining
 
-    Project: Text Sentimental Classification, [github](https://github.com/YoonjungChoi/CMPE255_TEAM10_TextClassification)
+    Project: Text Sentimental Classification to predict Disaster with Disaster Tweets Dataset, [github](https://github.com/YoonjungChoi/CMPE255_TEAM10_TextClassification)
     
   - CMPE266 Big Data Enngineering/Analytics
     
@@ -35,7 +35,7 @@
 
   -  CMPE297 SpecialTopics(Natural Language Processing)
 
-     Project: QuestionAnswering with BERT, GPT models, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
+     Project: Kids Education Assistant, Question Answering models with pre-trained BERT & GPT, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
     
 ### 2023 Spring
 
