@@ -43,9 +43,9 @@
 
     Research Paper: Integrating Branchformer to TDNN for Speaker Verification with Short Utterances
 
-    [Paper](https://docs.google.com/document/d/1BXaL0LAPz1MHoS11NeYz2x31wwuQSXr1/edit?usp=sharing&ouid=118008271487839144751&rtpof=true&sd=true)
+    [Assginment Writing Paper](https://docs.google.com/document/d/1BXaL0LAPz1MHoS11NeYz2x31wwuQSXr1/edit?usp=sharing&ouid=118008271487839144751&rtpof=true&sd=true)
 
-    [Oral Presentation](https://docs.google.com/presentation/d/1fNJT8LObsgKFw70Lyjt4TH47tQSFHRIDlhC9DDK-D9g/edit?usp=sharing)
+    [Assginment Presentation](https://docs.google.com/presentation/d/1fNJT8LObsgKFw70Lyjt4TH47tQSFHRIDlhC9DDK-D9g/edit?usp=sharing)
 
   - CMPE295A MasterProject
 
