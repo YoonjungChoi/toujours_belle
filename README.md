@@ -8,7 +8,7 @@
     
     Project: Web Application Development of Banking System with Design Patterns, [github](https://github.com/gopinathsjsu/team-project-team7)
   
-  - CMPE257 Machine Learninng
+  - CMPE257 Machine Learning
   
     Project: Image Classification with Herbarium 2021 Kaggle Competition, [github](https://github.com/YoonjungChoi/CMPE257_ML_study)
   
@@ -21,7 +21,7 @@
 
     Project: Text Sentimental Classification to predict Disaster with Disaster Tweets Dataset, [github](https://github.com/YoonjungChoi/CMPE255_TEAM10_TextClassification)
     
-  - CMPE266 Big Data Enngineering/Analytics
+  - CMPE266 Big Data Engineering/Analytics
     
   - CMPE281 Cloud Technologies
 
@@ -55,6 +55,6 @@
 
   - CMPE295B MasterProject
     
-  - CMPE260 Reinforcement Learning
+  - CMPE 249 Intelligent Autonumous Systems
 
     
