@@ -55,6 +55,6 @@
 
   - CMPE295B MasterProject
     
-  - CMPE 249 Intelligent Autonumous Systems
+  - CMPE 249 Intelligent Autonumous Systems [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
 
     
