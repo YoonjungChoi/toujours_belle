@@ -55,6 +55,9 @@
 
   - CMPE295B MasterProject
     
-  - CMPE 249 Intelligent Autonumous Systems [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
+  - CMPE 249 Intelligent Autonumous Systems
+  
+  Project: Depth Estimation [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
+    
 
     
