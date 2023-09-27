@@ -19,13 +19,13 @@
 ### 2022 Spring
   - CMPE255 Data Mining
 
-    Project: Text Sentimental Classification to predict Disaster with Disaster Tweets Dataset, [github](https://github.com/YoonjungChoi/CMPE255_TEAM10_TextClassification)
+    Project: **Text Sentimental Classification** to predict Disaster with Disaster Tweets Dataset, [github](https://github.com/YoonjungChoi/CMPE255_TEAM10_TextClassification)
     
   - CMPE266 Big Data Engineering/Analytics
     
   - CMPE281 Cloud Technologies
 
-    Project: Cloud-based Coffee Maker Robot Simulator and Rental Management System, [github](https://github.com/jxdev8/cmpe281-team12)
+    **Project**: Cloud-based Coffee Maker Robot Simulator and Rental Management System, [github](https://github.com/jxdev8/cmpe281-team12)
 
     
 ### 2022 Fall
@@ -49,7 +49,7 @@
 
   - CMPE295A MasterProject
 
-    Project: Neural Machine Translation [github](https://github.com/YoonjungChoi/CMPE295_NMT_Project/tree/main)
+    Project: **Idiom-centric data augmentation on Neural Machine Translation between Korean English** [github](https://github.com/YoonjungChoi/CMPE295_NMT_Project/tree/main)
 
 ### 2023 Fall
 
@@ -57,7 +57,7 @@
     
   - CMPE 249 Intelligent Autonumous Systems [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
   
-  Project: Depth Estimation [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
+  Project: **Object Detection, Depth Estimation** [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
     
 
     
