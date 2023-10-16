@@ -49,15 +49,13 @@
 
   - CMPE295A MasterProject
 
-    Project: **Idiom-centric data augmentation on Neural Machine Translation between Korean English** [github](https://github.com/YoonjungChoi/CMPE295_NMT_Project/tree/main)
+    Project: Idiom-centric data augmentation on Neural Machine Translation between Korean English [github](https://github.com/YoonjungChoi/CMPE295_NMT_Project/tree/main)
 
 ### 2023 Fall
 
   - CMPE295B MasterProject
     
-  - CMPE 249 Intelligent Autonumous Systems [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
+  - CMPE 249 Intelligent Autonumous Systems 
   
-  Project: **Object Detection, Depth Estimation** [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
-    
-
+  Project: Object Detection, Depth Estimation [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
     
