@@ -5,10 +5,14 @@
 
 ### 2021 Spring
   - CMPE202 SW System Engineering
+
+    I learned Desigin Patterns based on Java.
     
     Project: Web Application Development of Banking System with Design Patterns, [github](https://github.com/gopinathsjsu/team-project-team7)
   
   - CMPE257 Machine Learning
+
+    I learned from basic concept of Linear/Logistic Regression with Regularization to SVM, Decision Tree, XGBoost, Neural Network, KNN KMeans, CNN, NLP, PCA, SVD.
   
     Project: Image Classification with Herbarium 2021 Kaggle Competition, [github](https://github.com/YoonjungChoi/CMPE257_ML_study)
   
@@ -25,15 +29,21 @@
     
   - CMPE281 Cloud Technologies
 
+    I learned basic concept of SaaS, PaaS, and IaaS, and various Cloud Tech such as AWS
+
     **Project**: Cloud-based Coffee Maker Robot Simulator and Rental Management System, [github](https://github.com/jxdev8/cmpe281-team12)
 
     
 ### 2022 Fall
   -  CMPE258 DeepLearning
 
+    I learned basic concept of Loss Function, OpenCV with Canny Edge Detection, Implementation of Digit Recognition, Object Detection YoLo.
+    
      Project: Breast Cancer Segmentation and Real-Time Cartoon Charactor Detection,[github](https://github.com/YoonjungChoi/CMPE258DL_ObjectDetectionSegmentation_study)
 
   -  CMPE297 SpecialTopics(Natural Language Processing)
+
+    I learned from basic concept of N-Gram to LSTM, Transformer Archiectures.
 
      Project: Kids Education Assistant, Question Answering models with pre-trained BERT & GPT, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
     
@@ -55,7 +65,9 @@
 
   - CMPE295B MasterProject
     
-  - CMPE 249 Intelligent Autonumous Systems 
+  - CMPE 249 Intelligent Autonumous Systems
+
+    I learned VGGNet, GoogleNet, ResNet, DenseNet, SE, MobileNet, R-CNN, FastR-CNN, YoLo 1~8, RetinaNet, Panopic Segmentation, Polar Net, VoxelNet, SECOND .. etc
   
   Project: Object Detection, Depth Estimation [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
     
