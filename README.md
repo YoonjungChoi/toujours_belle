@@ -36,16 +36,16 @@
     
 ### 2022 Fall
   -  CMPE258 DeepLearning
-
-    I learned basic concept of Loss Function, OpenCV with Canny Edge Detection, Implementation of Digit Recognition, Object Detection YoLo.
+  
+  I learned basic concept of Loss Function, OpenCV with Canny Edge Detection, Implementation of Digit Recognition, Object Detection YoLo.
     
-     Project: Breast Cancer Segmentation and Real-Time Cartoon Charactor Detection,[github](https://github.com/YoonjungChoi/CMPE258DL_ObjectDetectionSegmentation_study)
+  **Project** : Breast Cancer Segmentation and Real-Time Cartoon Charactor Detection,[github](https://github.com/YoonjungChoi/CMPE258DL_ObjectDetectionSegmentation_study)
 
   -  CMPE297 SpecialTopics(Natural Language Processing)
 
-    I learned from basic concept of N-Gram to LSTM, Transformer Archiectures.
+  I learned from basic concept of N-Gram to LSTM, Transformer Archiectures.
 
-     Project: Kids Education Assistant, Question Answering models with pre-trained BERT & GPT, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
+  **Project**: Kids Education Assistant, Question Answering models with pre-trained BERT & GPT, [github](https://github.com/YoonjungChoi/CMPE297_NLP_Project)
     
 ### 2023 Spring
 
