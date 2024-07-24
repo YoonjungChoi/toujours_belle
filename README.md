@@ -70,4 +70,14 @@
     I learned VGGNet, GoogleNet, ResNet, DenseNet, SE, MobileNet, R-CNN, FastR-CNN, YoLo 1~8, RetinaNet, Panopic Segmentation, Polar Net, VoxelNet, SECOND .. etc
   
   Project: Object Detection, Depth Estimation [github](https://github.com/YoonjungChoi/CMPE249_IntelligentAutonomousSystems_Study)
-    
+
+
+### 2024 Generative AI
+
+- Learned from Online Course: Coursera-GenerativeAI with LLM
+
+  I learned Prompt Engineering and Fine-tuning(Parameter Efficient Fine-tuning PEFT, Reinforcement Learning from Human Feedback)
+
+Project: study generative AI with LLM [github](https://github.com/YoonjungChoi/Project_GenerativeAI)
+
+
